@@ -44,3 +44,9 @@ fun descending() {
 
     println("Numbers in combo : $numbersOrdered")
 }
+
+fun max() {
+    val max = numbers.max()
+
+    println("Max of numbers : $max")
+}
