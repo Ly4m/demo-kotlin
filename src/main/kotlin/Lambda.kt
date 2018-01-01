@@ -44,5 +44,3 @@ fun descending() {
 
     println("Numbers in combo : $numbersOrdered")
 }
-
-spark
