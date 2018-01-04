@@ -1,6 +1,4 @@
-package classes.java;
-
-import classes.Skill;
+package old.classes;
 
 import java.util.List;
 
@@ -12,7 +10,7 @@ public class Developer {
 
     private String firstName;
 
-    private List<classes.Skill> skills;
+    private List<Skill> skills;
 
     public Long getId() {
         return id;
@@ -38,7 +36,7 @@ public class Developer {
         this.firstName = firstName;
     }
 
-    public List<classes.Skill> getSkills() {
+    public List<Skill> getSkills() {
         return skills;
     }
 

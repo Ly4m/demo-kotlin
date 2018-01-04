@@ -1,4 +1,4 @@
-package classes.java;
+package old.classes;
 
 public class Skill {
 
